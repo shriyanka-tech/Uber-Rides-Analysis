@@ -14,7 +14,7 @@ This project analyzes Uber ride data to understand trip trends, revenue, and dem
 - Card payments dominate
 
 ## 📂 Files
-- uber_data.csv → Raw dataset
+- uber_data.xlsx → Raw dataset
 - uber_dashboard.pbix → Dashboard file
 
 ## 👩‍💻 Author
